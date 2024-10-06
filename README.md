@@ -1,6 +1,5 @@
 <h1 align="left">Vladimir Beliakov (aka ermegilius) - @ermegilius</h1>
-<h3 align="left">Hi, I am Vladimir, a web development student at <a href="https://en.bc.fi/" target="_blank">Business College Helsinki</a>.</h3>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="left">Hi, I am Vladimir, a web development student at <a href="https://en.bc.fi/" target="_blank">Business College Helsinki</a> now, skilled procurement and project management specialist in the past</h3>
 
 _Master once - skip the hundred fixes._
 
