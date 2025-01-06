@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    # Runs at 12am UTC every day
-    - cron: "0 0 * * *"
+    # Runs at 12am and 12pm UTC every day
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: Ermegilius
-          outputs: dist/snake.svg
+          output: dist/snake.svg
 
       - name: Push the snake animation to the output branch
         uses: ad-m/github-push-action@v0.6.0
