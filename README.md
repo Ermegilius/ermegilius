@@ -23,4 +23,4 @@ Discord: Ermegilius
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![github-contribution-grid-snake.gif](https://raw.githubusercontent.com/Ermegilius/ermegilius/afc2d7b434c53c0f0c83e3bc37740ede114ff360/github-contribution-grid-snake-dark.svg)
+![github-contribution-grid-snake.gif](https://raw.githubusercontent.com/Ermegilius/ermegilius/refs/heads/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
