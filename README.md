@@ -22,5 +22,6 @@ Discord: Ermegilius
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[![Node CI](https://github.com/Ermegilius/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/Ermegilius/null_or_empty/actions/workflows/whatever.yml)
 
 ![github-contribution-grid-snake.gif](https://raw.githubusercontent.com/Ermegilius/ermegilius/refs/heads/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
