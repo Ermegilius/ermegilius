@@ -1,5 +1,5 @@
 <h1 align="left">Vladimir Beliakov (aka ermegilius) - @ermegilius</h1>
-Hi, I’m Vladimir — a web development graduate from 
+Hi, I’m Vladimir, a web development graduate from 
 <a href="https://en.bc.fi/" target="_blank">Business College Helsinki</a>, 
 and a former procurement and project management specialist.
 </h3>
