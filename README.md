@@ -24,20 +24,21 @@ Here you can find my study and hobby projects.
 </p>
 
 **My contributions included:**
-- **Database:** designed and maintained the initial setup (Supabase, PostgreSQL)  
-- **Authentication:** built a role-based system using JWT with embedded roles  
-- **Backend:** implemented numerous APIs with Node.js, NestJS, TypeScript, Postman  
-- **Frontend:** created UI components and Redux slices, implemented a custom multilanguage system (React, Tailwind, Shadcn, TypeScript)  
-- **Testing:** added end-to-end tests with Cypress  
-- **CI/CD & Deployment:** configured GitHub Actions and deployed to Azure Static Web Apps & Azure App Service  
+
+- **Database:** designed and maintained the initial setup (Supabase, PostgreSQL)
+- **Authentication:** built a role-based system using JWT with embedded roles
+- **Backend:** implemented numerous APIs with Node.js, NestJS, TypeScript, Postman
+- **Frontend:** created UI components and Redux slices, implemented a custom multilanguage system (React, Tailwind, Shadcn, TypeScript)
+- **Testing:** added end-to-end tests with Cypress
+- **CI/CD & Deployment:** configured GitHub Actions and deployed to Azure Static Web Apps & Azure App Service
 - **Project management:** coordinated work in Jira (Scrum)
 
 ## 📫 Contact Me
 
 Feel free to find me in other channels also: 🇬🇧 🇷🇺
 
-- <a href="https://www.linkedin.com/in/vladimir-beliakov/" target="_blank">LinkedIn</a>  
-- <a href="https://www.facebook.com/profile.php?id=100025852310794" target="_blank">Facebook</a>  
+- <a href="https://www.linkedin.com/in/vladimir-beliakov/" target="_blank">LinkedIn</a>
+- <a href="https://www.facebook.com/profile.php?id=100025852310794" target="_blank">Facebook</a>
 - Discord: **Ermegilius**
 
 ---
@@ -45,6 +46,7 @@ Feel free to find me in other channels also: 🇬🇧 🇷🇺
 ## 🛠️ Technologies & Tools
 
 <!-- Core Stack -->
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -55,27 +57,32 @@ Feel free to find me in other channels also: 🇬🇧 🇷🇺
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 <!-- Databases -->
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 <!-- Frontend & UI -->
+
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 
 <!-- DevOps & Tools -->
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 <!-- Testing & Management -->
+
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
