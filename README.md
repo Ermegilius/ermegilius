@@ -37,21 +37,14 @@ Here you can find my study and hobby projects.
 
 Feel free to find me in other channels also: 🇬🇧 🇷🇺
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vladimir-beliakov/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100025852310794" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <br>
-  <span style="display: inline-flex; align-items: center;">
-    <a href="https://discordapp.com/users/Ermegilius" target="_blank">
-      <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-    <span style="font-weight:bold; color:#5865F2; margin-left:8px;">Ermegilius</span>
-  </span>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-beliakov/)
+
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025852310794)
+
+[![Discord](https://img.shields.io/badge/-Discord(@ermegilius)-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Ermegilius)
+
+</section>
 
 ---
 
