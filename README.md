@@ -27,19 +27,31 @@ Here you can find my study and hobby projects.
 
 - **Database:** designed and maintained the initial setup (Supabase, PostgreSQL)
 - **Authentication:** built a role-based system using JWT with embedded roles
-- **Backend:** implemented numerous APIs with Node.js, NestJS, TypeScript, Postman
+- **Backend:** implemented numerous APIs (Node.js, NestJS, TypeScript, Postman)
 - **Frontend:** created UI components and Redux slices, implemented a custom multilanguage system (React, Tailwind, Shadcn, TypeScript)
-- **Testing:** added end-to-end tests with Cypress
-- **CI/CD & Deployment:** configured GitHub Actions and deployed to Azure Static Web Apps & Azure App Service
+- **Testing:** added end-to-end tests (Cypress)
+- **CI/CD & Deployment:** configured and deployed the app (GitHub Actions, Azure Static Web Apps & Azure App Service)
 - **Project management:** coordinated work in Jira (Scrum)
 
 ## 📫 Contact Me
 
 Feel free to find me in other channels also: 🇬🇧 🇷🇺
 
-- <a href="https://www.linkedin.com/in/vladimir-beliakov/" target="_blank">LinkedIn</a>
-- <a href="https://www.facebook.com/profile.php?id=100025852310794" target="_blank">Facebook</a>
-- Discord: **Ermegilius**
+<p align="left">
+  <a href="https://www.linkedin.com/in/vladimir-beliakov/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100025852310794" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <br>
+  <span style="display: inline-flex; align-items: center;">
+    <a href="https://discordapp.com/users/Ermegilius" target="_blank">
+      <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <span style="font-weight:bold; color:#5865F2; margin-left:8px;">Ermegilius</span>
+  </span>
+</p>
 
 ---
 
@@ -78,8 +90,8 @@ Feel free to find me in other channels also: 🇬🇧 🇷🇺
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 <!-- Testing & Management -->
 
