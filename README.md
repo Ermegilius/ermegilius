@@ -13,6 +13,8 @@ Here you can find my study and hobby projects.
 
 ### 🚀 Recent Highlight
 
+#### 1. Harakka App
+
 <p>
   One of the projects I’m proud of is a full-stack application developed within the  
   <a href="https://github.com/con2" target="_blank"><strong>con2</strong></a> organization:
@@ -20,7 +22,7 @@ Here you can find my study and hobby projects.
 
 <p><strong>Multi-Tenancy Storage &amp; Booking App — “Harakka”</strong><br>
 💻 <a href="https://lnkd.in/dP5Dd3NR" target="_blank"><strong>GitHub</strong></a> <br>
-🌐 <a href="https://harakka.con2.fi" target="_blank"><strong>Live</strong></a> &emsp; 
+🌐 <a href="https://harakka.con2.fi" target="_blank"><strong>Live</strong></a> <span style="color:orange;">🚧 Under Construction</span> &emsp; 
 </p>
 
 **My contributions included:**
@@ -33,16 +35,38 @@ Here you can find my study and hobby projects.
 - **CI/CD & Deployment:** configured and deployed the app (GitHub Actions, Azure Static Web Apps & Azure App Service)
 - **Project management:** coordinated work in Jira (Scrum)
 
+#### 2. YouGnosis App
+
+<p>
+ The project I’m currently developing is:
+
+**YouGnosis** The app is in development. For me it's a skill building playground. My aim is to create an app which will help YouTube creators track analytics and compare competitors.
+</p>
+
+<p>
+💻 <a href="https://github.com/Ermegilius/YouGnosis" target="_blank"><strong>GitHub</strong></a> <br>
+🌐 <a href="https://www.yougnosis.com" target="_blank"><strong>Live</strong></a> <br>
+</p>
+
+**It's my solo project, so all the bugs are mine to possess.**<br>
+**Stack:**
+
+- **Frontend:** React 18+, TypeScript, Redux Toolkit, Tailwind CSS, Vite
+- **Backend:** Nest.js, TypeScript
+- **Database:** Supabase (PostgreSQL)
+- **Authentication:** Supabase Auth (Google OAuth2)
+- **APIs:** YouTube Data API v3, YouTube Analytics API
+- **Deployment:** Docker & Google Cloud Run
+
 ## 📫 Contact Me
 
 Feel free to find me in other channels also: 🇬🇧 🇷🇺
-
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-beliakov/)
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025852310794)
 
-[![Discord](https://img.shields.io/badge/-Discord(@ermegilius)-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Ermegilius)
+[![Discord](<https://img.shields.io/badge/-Discord(@ermegilius)-5865F2?style=for-the-badge&logo=discord&logoColor=white>)](https://discordapp.com/users/Ermegilius)
 
 </section>
 
