@@ -35,12 +35,29 @@ Here you can find my study and hobby projects.
 - **CI/CD & Deployment:** configured and deployed the app (GitHub Actions, Azure Static Web Apps & Azure App Service)
 - **Project management:** coordinated work in Jira (Scrum)
 
-#### 2. YouGnosis App
+#### 2. FitArenaa
+
+<p><strong>FitAarenaa — gym-management platform.
+FitArenaa uses predictive analytics, real-time occupancy signals, and inclusive design to help gyms manage peak hours, reduce churn, and welcome neurodiverse and socially anxious members with confidence.</strong></p>
+
+**My contributions included:**
+Joined at an early product stage and helped shape architecture while delivering the platform end-to-end:
+
+- Building and maintaining a modular full-stack system using React + TypeScript + Tailwind (admin dashboards, analytics/reporting, role-based flows) and NestJS + TypeScript + TypeORM (REST APIs, business logic, auth/permissions).
+- Designed and maintained PostgreSQL data layer (UpCloud Managed DB), including schema and runtime configuration updates.
+- Managed deployment and operations on UpCloud (server provisioning, PM2 process management, webhook-based redeploy, health checks).
+
+<p>The repositories are private, but the project overview is available at:</p>
+
+🌐 <a href="https://www.fitarenaa.com/about" target="_blank"><strong>Fitarenaa - about</strong></a>
+
+#### 3. YouGnosis App
 
 <p>
- The project I’m currently developing is:
+ My side project:
 
 **YouGnosis** The app is in development. For me it's a skill building playground. My aim is to create an app which will help YouTube creators track analytics and compare competitors.
+
 </p>
 
 <p>
