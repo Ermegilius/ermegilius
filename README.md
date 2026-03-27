@@ -22,7 +22,7 @@ Here you can find my study and hobby projects.
 
 <p><strong>Multi-Tenancy Storage &amp; Booking App — “Harakka”</strong><br>
 💻 <a href="https://lnkd.in/dP5Dd3NR" target="_blank"><strong>GitHub</strong></a> <br>
-🌐 <a href="https://harakka.con2.fi" target="_blank"><strong>Live</strong></a> <span style="color:orange;">🚧 Under Construction</span> &emsp; 
+🌐 <a href="https://harakka.netlify.app" target="_blank"><strong>Live</strong></a> <span style="color:orange;"> Demo instance</span> &emsp;
 </p>
 
 **My contributions included:**
