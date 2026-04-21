@@ -1,7 +1,8 @@
 <h1 align="left">Vladimir Beliakov (aka ermegilius) - @ermegilius</h1>
-Hi, I’m Vladimir, a web development graduate from 
-<a href="https://en.bc.fi/" target="_blank">Business College Helsinki</a>, 
-and a former procurement and project management specialist.
+Hi, I'm Full-Stack Developer | React • TypeScript • Node, Express, NestJS • SQL/NoSQL DB • CI/CD.
+<br>
+Graduated from <a href="https://en.bc.fi/" target="_blank">Business College Helsinki</a>
+and a former procurement and project management professional.
 </h3>
 <br><br>
 
@@ -22,7 +23,7 @@ Here you can find my study and hobby projects.
 
 <p><strong>Multi-Tenancy Storage &amp; Booking App — “Harakka”</strong><br>
 💻 <a href="https://lnkd.in/dP5Dd3NR" target="_blank"><strong>GitHub</strong></a> <br>
-🌐 <a href="https://harakka.con2.fi" target="_blank"><strong>Live</strong></a> <span style="color:orange;">🚧 Under Construction</span> &emsp; 
+🌐 <a href="https://harakka.netlify.app/" target="_blank"><strong>Demo instance</strong></a>
 </p>
 
 **My contributions included:**
@@ -46,6 +47,8 @@ Joined at an early product stage and helped shape architecture while delivering 
 - Building and maintaining a modular full-stack system using React + TypeScript + Tailwind (admin dashboards, analytics/reporting, role-based flows) and NestJS + TypeScript + TypeORM (REST APIs, business logic, auth/permissions).
 - Designed and maintained PostgreSQL data layer (UpCloud Managed DB), including schema and runtime configuration updates.
 - Managed deployment and operations on UpCloud (server provisioning, PM2 process management, webhook-based redeploy, health checks).
+- Implemented secure real-time data ingestion (HMAC-signed webhooks, replay protection) and automated session lifecycle handling.
+- Built analytics and member risk-scoring pipeline (scheduled cron jobs, optimized PostgreSQL queries) and maintained CI/CD + PM2 deployment workflows.
 
 <p>The repositories are private, but the project overview is available at:</p>
 
@@ -101,6 +104,7 @@ Feel free to find me in other channels also: 🇬🇧 🇷🇺
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=white)
 
 <!-- Databases -->
 
@@ -108,6 +112,7 @@ Feel free to find me in other channels also: 🇬🇧 🇷🇺
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=flat-square&logo=typeorm&logoColor=white)
 
 <!-- Frontend & UI -->
 
@@ -115,17 +120,21 @@ Feel free to find me in other channels also: 🇬🇧 🇷🇺
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
 
 <!-- DevOps & Tools -->
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![PM2](https://img.shields.io/badge/-PM2-2F7C9C?style=flat-square)
 
 <!-- Testing & Management -->
 
