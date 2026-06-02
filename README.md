@@ -36,23 +36,27 @@ Here you can find my study and hobby projects.
 - **CI/CD & Deployment:** configured and deployed the app (GitHub Actions, Azure Static Web Apps & Azure App Service)
 - **Project management:** coordinated work in Jira (Scrum)
 
-#### 2. FitArenaa
+#### 2. BLOMR (ex FitArenaa)
 
-<p><strong>FitAarenaa — gym-management platform.
-FitArenaa uses predictive analytics, real-time occupancy signals, and inclusive design to help gyms manage peak hours, reduce churn, and welcome neurodiverse and socially anxious members with confidence.</strong></p>
+<p>
+  <strong>Blomr</strong> is a multi-tenant platform for activity owners with three main surfaces:
+  a public marketing site, a discovery / venture flow, and a role-based gym console.
+  It combines analytics, real-time occupancy signals, and equipment activity workflows to help gyms, sports centers,
+  and fitness studios manage operations and member experience.
+</p>
 
 **My contributions included:**
-Joined at an early product stage and helped shape architecture while delivering the platform end-to-end:
 
-- Building and maintaining a modular full-stack system using React + TypeScript + Tailwind (admin dashboards, analytics/reporting, role-based flows) and NestJS + TypeScript + TypeORM (REST APIs, business logic, auth/permissions).
-- Designed and maintained PostgreSQL data layer (UpCloud Managed DB), including schema and runtime configuration updates.
-- Managed deployment and operations on UpCloud (server provisioning, PM2 process management, webhook-based redeploy, health checks).
+- Joined at an early product stage and helped shape the architecture while delivering the platform end-to-end.
+- Built and maintained a modular full-stack system using React + TypeScript + Tailwind (admin dashboards, analytics/reporting, role-based flows) and NestJS + TypeScript + TypeORM (REST APIs, business logic, auth/permissions).
+- Designed and maintained the PostgreSQL data layer (UpCloud Managed DB and Object Storage), including schema and runtime configuration updates.
+- Managed deployment and operations on UpCloud (server provisioning, PM2 process management, webhook-based redeploys, health checks).
 - Implemented secure real-time data ingestion (HMAC-signed webhooks, replay protection) and automated session lifecycle handling.
-- Built analytics and member risk-scoring pipeline (scheduled cron jobs, optimized PostgreSQL queries) and maintained CI/CD + PM2 deployment workflows.
+- Built the analytics and member risk-scoring pipeline (scheduled cron jobs, optimized PostgreSQL queries) and maintained CI/CD + PM2 deployment workflows.
 
 <p>The repositories are private, but the project overview is available at:</p>
 
-🌐 <a href="https://www.fitarenaa.com/about" target="_blank"><strong>Fitarenaa - about</strong></a>
+🌐 <a href="https://www.blomr.fi/about" target="_blank"><strong>Blomr project overview</strong></a>
 
 #### 3. YouGnosis App
 
