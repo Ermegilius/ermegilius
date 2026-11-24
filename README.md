@@ -1,98 +1,49 @@
-<h1 align="left">Vladimir Beliakov (aka ermegilius) - @ermegilius</h1>
-Hi, I'm Full-Stack Developer | React • TypeScript • Node, Express, NestJS • SQL/NoSQL DB • CI/CD.
-<br>
-Graduated from <a href="https://en.bc.fi/" target="_blank">Business College Helsinki</a>
-and a former procurement and project management professional.
-</h3>
-<br><br>
+# Hi, I'm Vladimir 👋
 
-> _Master once - skip the hundred fixes._
+Full-stack engineer and co-founder of two Finnish startups, based in Espoo, Finland.
 
-Here you can find my study and hobby projects.
+I build products end to end and run them in production: TypeScript across React/Next.js and NestJS, PostgreSQL, CI/CD and cloud deployment. AI tools are a big part of how I work, and I set up how a team works with them, so that AI-assisted work stays reviewable and verified, not just fast.
+
+Before software, I spent 15 years in engineering and project management for nuclear power plant construction.
+
+> _Master once, skip the hundred fixes._
 
 ---
 
-### 🚀 Recent Highlight
+## 🚀 What I'm building
 
-#### 1. Harakka App
+### BLOMR · co-founder, lead developer
 
-<p>
-  One of the projects I’m proud of is a full-stack application developed within the  
-  <a href="https://github.com/con2" target="_blank"><strong>con2</strong></a> organization:
-</p>
+Multi-tenant SaaS platform for gyms, sports centres and activity organisers: a public site, a discovery and ventures flow, a member area and a role-based gym console.
 
-<p><strong>Multi-Tenancy Storage &amp; Booking App — “Harakka”</strong><br>
-💻 <a href="https://lnkd.in/dP5Dd3NR" target="_blank"><strong>GitHub</strong></a> <br>
-🌐 <a href="https://harakka.netlify.app/" target="_blank"><strong>Demo instance</strong></a>
-</p>
+- Lead developer: about 90% of the commits across the NestJS backend and the React web app.
+- Tenant subscription billing on Stripe, from checkout to the billing page in the gym console.
+- Authorisation moved to a tenant-scoped role model on the live production database, covered by 460 unit and 48 E2E tests.
+- Secure real-time data ingestion (HMAC-signed webhooks, replay protection), analytics and member risk scoring.
+- Production on UpCloud: PM2, Caddy, webhook deploys, deploy alerts, secrets in Infisical.
 
-**My contributions included:**
+The repositories are private. 🌐 [Project overview](https://www.blomr.fi/about)
 
-- **Database:** designed and maintained the initial setup (Supabase, PostgreSQL)
-- **Authentication:** built a role-based system using JWT with embedded roles
-- **Backend:** implemented numerous APIs (Node.js, NestJS, TypeScript, Postman)
-- **Frontend:** created UI components and Redux slices, implemented a custom multilanguage system (React, Tailwind, Shadcn, TypeScript)
-- **Testing:** added end-to-end tests (Cypress)
-- **CI/CD & Deployment:** configured and deployed the app (GitHub Actions, Azure Static Web Apps & Azure App Service)
-- **Project management:** coordinated work in Jira (Scrum)
+### Marbly · co-founder, Engineering & Architecture, AI Tooling
 
-#### 2. BLOMR (ex FitArenaa)
+Two-sided marketplace for event services in Finland: people planning a wedding, a graduation or a birthday find and book caterers, photographers, venues and performers.
 
-<p>
-  <strong>Blomr</strong> is a multi-tenant platform for activity owners with three main surfaces:
-  a public marketing site, a discovery / venture flow, and a role-based gym console.
-  It combines analytics, real-time occupancy signals, and equipment activity workflows to help gyms, sports centers,
-  and fitness studios manage operations and member experience.
-</p>
+- Designed the system: Next.js web, NestJS API, Supabase Postgres with RLS as a backstop, a shared Zod contract package, Google Cloud Run.
+- Set the technical standards and quality gates: Playwright E2E, Lighthouse checks, pre-push hooks.
+- As the team's "AI Shepherd", wrote our AI policy and built the shared Claude Code setup every developer runs: MCP integrations, permission rules, review and planning agents.
 
-**My contributions included:**
+The repositories are private. 🌐 [marbly.fi](https://marbly.fi)
 
-- Joined at an early product stage and helped shape the architecture while delivering the platform end-to-end.
-- Built and maintained a modular full-stack system using React + TypeScript + Tailwind (admin dashboards, analytics/reporting, role-based flows) and NestJS + TypeScript + TypeORM (REST APIs, business logic, auth/permissions).
-- Designed and maintained the PostgreSQL data layer (UpCloud Managed DB and Object Storage), including schema and runtime configuration updates.
-- Managed deployment and operations on UpCloud (server provisioning, PM2 process management, webhook-based redeploys, health checks).
-- Implemented secure real-time data ingestion (HMAC-signed webhooks, replay protection) and automated session lifecycle handling.
-- Built the analytics and member risk-scoring pipeline (scheduled cron jobs, optimized PostgreSQL queries) and maintained CI/CD + PM2 deployment workflows.
+---
 
-<p>The repositories are private, but the project overview is available at:</p>
+## 🧰 Open source
 
-🌐 <a href="https://www.blomr.fi/about" target="_blank"><strong>Blomr project overview</strong></a>
-
-#### 3. YouGnosis App
-
-<p>
- My side project:
-
-**YouGnosis** The app is in development. For me it's a skill building playground. My aim is to create an app which will help YouTube creators track analytics and compare competitors.
-
-</p>
-
-<p>
-💻 <a href="https://github.com/Ermegilius/YouGnosis" target="_blank"><strong>GitHub</strong></a> <br>
-🌐 <a href="https://www.yougnosis.com" target="_blank"><strong>Live</strong></a> <br>
-</p>
-
-**It's my solo project, so all the bugs are mine to possess.**<br>
-**Stack:**
-
-- **Frontend:** React 18+, TypeScript, Redux Toolkit, Tailwind CSS, Vite
-- **Backend:** Nest.js, TypeScript
-- **Database:** Supabase (PostgreSQL)
-- **Authentication:** Supabase Auth (Google OAuth2)
-- **APIs:** YouTube Data API v3, YouTube Analytics API
-- **Deployment:** Docker & Google Cloud Run
-
-## 📫 Contact Me
-
-Feel free to find me in other channels also: 🇬🇧 🇷🇺
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-beliakov/)
-
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025852310794)
-
-[![Discord](<https://img.shields.io/badge/-Discord(@ermegilius)-5865F2?style=for-the-badge&logo=discord&logoColor=white>)](https://discordapp.com/users/Ermegilius)
-
-</section>
+| Project | What it is |
+| --- | --- |
+| [supaWake](https://github.com/Ermegilius/supaWake) · [live](https://supa-wake.netlify.app) | Keeps Supabase free-tier projects from auto-pausing, with zero setup inside the project. Week-long live tests showed that only Postgres writes count as activity, and the README documents the whole investigation. React, Vite, Netlify scheduled functions. |
+| [yMusic playlist importer](https://github.com/Ermegilius/yMusic_playlist_importer) | Zero-dependency Python script that exports liked tracks and playlists from Yandex Music to CSV, built for a friend who wanted to leave the platform. |
+| [Harakka](https://github.com/con2/harakka) · [demo](https://harakka.netlify.app/) | Multi-tenant storage and booking app, built in my internship team at Illusia ry: database, JWT role-based auth, NestJS APIs, React UI, Cypress tests, Azure deployment. |
+| [Nest + Supabase + React template](https://github.com/Ermegilius/nest-supabase-react-tailwind-TEMPLATE) | Starter template for full-stack apps: NestJS, Supabase, React with TypeScript and Tailwind CSS. |
 
 ---
 
@@ -100,53 +51,58 @@ Feel free to find me in other channels also: 🇬🇧 🇷🇺
 
 <!-- Core Stack -->
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=white)
 
-<!-- Databases -->
+<!-- Data -->
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=flat-square&logo=typeorm&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 <!-- Frontend & UI -->
 
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-<!-- DevOps & Tools -->
+<!-- Cloud & DevOps -->
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=flat-square&logo=github-actions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![UpCloud](https://img.shields.io/badge/-UpCloud-7B00FF?style=flat-square)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![PM2](https://img.shields.io/badge/-PM2-2F7C9C?style=flat-square)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-<!-- Testing & Management -->
+<!-- Testing -->
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+<!-- AI tooling -->
+
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
 ---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-beliakov/)
+[![Discord](<https://img.shields.io/badge/-Discord(@ermegilius)-5865F2?style=for-the-badge&logo=discord&logoColor=white>)](https://discordapp.com/users/Ermegilius)
+
+You will often find me at Helsinki tech meetups: HelsinkiJS, React Helsinki, Future Frontend.
 
 ![github-contribution-grid-snake.gif](https://raw.githubusercontent.com/Ermegilius/ermegilius/refs/heads/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
